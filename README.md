@@ -1,2 +1,2 @@
 # Blog
-Here is my blog, where i put political stuff (even though i don't like polictics)
+Here is my blog's sources, where i put political stuff (even though i don't like polictics)
