@@ -6,3 +6,5 @@ author: Hugo Berthet-Rambaud
 ---
 
 This is my blog, be welcomed !
+
+Feel free to send your ideas, what youa don't agree with or simply what are you happy with.

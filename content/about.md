@@ -6,3 +6,6 @@ author: Hugo Berthet-Rambaud
 ---
 
 Ceci est mong blog, soyez bienvenu !
+
+
+sentez-vous libre d'envoyer vos idées, celles avec lesquelles vous n'etes pas d'accord, ou encore ce que vous trouvez bon de mentionner.
